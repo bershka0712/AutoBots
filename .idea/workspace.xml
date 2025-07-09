@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5a1f5cd-4720-454e-8e5b-a11a8205c530" name="Changes" comment="new version 4.0.0">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/autobots/java/NewVersionClass.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a5a1f5cd-4720-454e-8e5b-a11a8205c530" name="Changes" comment="new version 4.0.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FindAverageSalary.executor": "Run",
-    "Application.FlatMap.executor": "Run",
-    "Application.LambdaLesson.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.StreamApiLesson.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/bershkabershka/Desktop/Spring2025/AutoBots/src/main/java/com/autobots/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FindAverageSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamApiLesson.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/bershkabershka/Desktop/Spring2025/AutoBots/src/main/java/com/autobots/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Practice">
     <configuration name="FindAverageSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.autobots.java.streamAPI.FindAverageSalary" />
